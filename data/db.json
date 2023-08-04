@@ -8,14 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
       "id": "dc-arrow",
       "superhero": "Green Arrow",
       "publisher": "DC Comics",
@@ -151,6 +143,24 @@
       "first_appearance": "Aceuchal",
       "characters": "Argueta69",
       "alt_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Francisco_Franco_1950.jpg/438px-Francisco_Franco_1950.jpg"
+    },
+    {
+      "id": "oxa1pbs",
+      "superhero": "Bartolome",
+      "publisher": "DC Comics",
+      "alter_ego": "Barto",
+      "first_appearance": "EMD Aceuchal",
+      "characters": "Perrina",
+      "alt_img": "https://media.licdn.com/dms/image/C4D03AQE9FjMjL7lAhQ/profile-displayphoto-shrink_800_800/0/1658684711289?e=2147483647&v=beta&t=HRt5u4cv8v-7UB8EuBLxxbOB4n0AXi-88y9BJMvsL6Y"
+    },
+    {
+      "id": "IvyA8AC",
+      "superhero": "qrq",
+      "publisher": "Marvel Comics",
+      "alter_ego": "rwer",
+      "first_appearance": "qwerq",
+      "characters": "reqwr",
+      "alt_img": "https://e7.pngegg.com/pngimages/804/39/png-clipart-man-face-image-file-formats-face.png"
     }
   ]
 }

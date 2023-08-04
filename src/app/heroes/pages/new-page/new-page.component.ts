@@ -80,7 +80,7 @@ export class NewPageComponent implements OnInit{
 
     this.heroesService.addHero(this.currentHero)
       .subscribe( hero=>{
-        this.router.navigate(['hero/edit',hero.id]);
+        this.router.navigate(['heroes/edit',hero.id]);
         this.showSnackbar(`${hero.superhero} created!`)
       });
 
